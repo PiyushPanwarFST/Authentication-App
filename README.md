@@ -1,6 +1,7 @@
 # User Authentication App
 
-![User Authentication App Screenshot](screenshot.png)
+<img width="583" alt="Screenshot 2024-04-02 at 6 02 24 PM" src="https://github.com/PiyushPanwarFST/Authentication-App/assets/153702744/298f891b-962e-45d6-b4a4-60de2b686030">
+
 
 ## Overview
 
