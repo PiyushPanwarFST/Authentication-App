@@ -18,7 +18,6 @@ The User Authentication App is a React.js application that provides user authent
 
 - **React.js:** A JavaScript library for building user interfaces.
 - **React Router:** Declarative routing for React.js applications.
-- **Firebase:** A platform for building web and mobile applications.
 
 ## Getting Started
 
